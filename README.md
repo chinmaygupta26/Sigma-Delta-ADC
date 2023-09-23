@@ -6,7 +6,7 @@ devices. This paper attempts the implementation
 of the converter by splitting the circuit into 
 analog and digital part. The Input and Analog 
 part are simulated through MATLAB and the 
-Digital part is passed through Atlas DE0-NanoSoC FPGA board using FIL (FPGA in the Loop 
+Digital part is passed through Atlas DE0-Nano-SoC FPGA board using FIL (FPGA in the Loop 
 Simulation). The initial input (delayed to match 
 the output), the output digital approximation and 
 the error (difference of the two signals) is 
