@@ -1,4 +1,4 @@
-# Sigma-Delta-ADC
+# Sigma-Delta Analog-To-Digital Converter (ADC)
 ## Implementation of Sigma-Delta ADC using MATLAB and FPGA  
 Sigma-Delta Analog to Digital Converters have a wide range of applications in the signal-processing domain for designing 
 effective communication systems on hardware
