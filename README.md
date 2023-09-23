@@ -1,6 +1,6 @@
 # Sigma-Delta-ADC
-Implementation of Sigma-Delta ADC using MATLAB and FIL  
-Sigma-Delta Analog to Digital Converters have a wide range of applications in the signal-processing domain for designing 
+**Implementation of Sigma-Delta ADC using MATLAB and FPGA  
+**Sigma-Delta Analog to Digital Converters have a wide range of applications in the signal-processing domain for designing 
 effective communication systems on hardware
 devices. This paper attempts the implementation 
 of the converter by splitting the circuit into 
